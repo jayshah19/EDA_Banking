@@ -1,4 +1,4 @@
 *.py linguist-detectable=true
-*.ipyb linguist-detectable=false
+*.ipynb linguist-detectable=false
 
-*.ipyb linguist-language=Python
+*.py linguist-language=Python
