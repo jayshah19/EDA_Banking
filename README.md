@@ -1,5 +1,6 @@
-# EDA_Banking
+# Exploratory Data Analysis in banking with Pandas framework
 
+The duty of performing a preliminary study of a favorable response to direct bank calls was completed during this Project. This Project is essentially a matter of bank scoring, where a client's behavior is anticipated based on their qualities. To better organize marketing banking initiatives, I also created a visual analysis. I performed Exploratory Data Analysis with the pandas' framework. A Python module called Pandas offers a wide range of tools for data analysis. Pandas provide various options for visual analysis of tabular data, working in concert with Matplotlib and Seaborn.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 DataBase Used:
